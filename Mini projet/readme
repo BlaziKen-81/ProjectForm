@@ -5,3 +5,6 @@ ip phpmyadmin sur xampp (poste de bastien) : 172.20.10.2
 le formulaire marche en local mais la liaison avec la base sur le poste de bastien ne marche pas (mauvais lien ?).
 
 difficultés a connecter la base, bastien m'as aider pour relier la base, le système en local ça marche, mais pas sur en réseau.
+
+
+Clément DURAND et Yohan BONNAVENTURE nous ont aider pour le code php.
